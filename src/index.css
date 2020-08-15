@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family:'Spartan',sans-serif;
+  font-size:15px;
+  background:#e6fffa;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
